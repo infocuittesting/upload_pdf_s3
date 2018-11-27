@@ -1,0 +1,2 @@
+# Requirements built in the using amazon-linux
+MarkupSafe==1.0
