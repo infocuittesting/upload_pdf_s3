@@ -1,0 +1,5 @@
+*.pyc
+notes.org
+
+pdf/.chalice
+pdf/vendor/markupsafe
