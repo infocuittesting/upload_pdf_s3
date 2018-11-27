@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "app_name": "pdf",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  },
+  "environment_variables": {
+    "AWS_ACCESS": "AKIAJNKSPZ5GKMJ5XIRQ",
+    "AWS_SECRET": "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",
+    "AWS_BUCKET": "convertpdftotext",
+    "AWS_REGION_NAME": "US East (N. Virginia)"
+  }
+}
